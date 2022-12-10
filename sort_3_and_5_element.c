@@ -70,12 +70,7 @@ void	ft_sort_5_element(t_stacks *stacks)
 }
 
 /*
-**		ft_max - функция возвращает максимальное значение
-**		из стека.
-**			༺༻
-**		Состояние:	✓
-**		Нормы:		✓
-**			༺༻
+**		ft_max - işlev maksimum değeri döndürür
 */
 
 int	ft_max(t_stack *s)
